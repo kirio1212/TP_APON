@@ -1,0 +1,5 @@
+admin;apon;ADMIN
+prof;apon;PROF
+1;apon;STUDENT
+2;yanis;STUDENT
+3;enzo;STUDENT
